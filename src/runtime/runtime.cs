@@ -144,6 +144,7 @@ namespace Python.Runtime
             ["amd64"] = MachineType.x86_64,
             ["x64"] = MachineType.x86_64,
             ["em64t"] = MachineType.x86_64,
+            ["aarch64"] =MachineType.x86_64
             ["armv7l"] = MachineType.armv7l,
             ["armv8"] = MachineType.armv8,
             ["aarch64"] = MachineType.aarch64,
